@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.12.0",
+    "@anthropic-ai/sdk": "^0.12.8",
     "@deepgram/sdk": "^3.0.0",
     "ai": "^2.2.37",
     "firebase": "^10.7.1",
+    "framer-motion": "^12.0.6",
     "lucide-react": "^0.474.0",
     "next": "14.0.4",
     "openai": "^4.80.1",
