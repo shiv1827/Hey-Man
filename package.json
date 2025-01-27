@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.12.8",
     "@deepgram/sdk": "^3.0.0",
     "ai": "^2.2.37",
     "firebase": "^10.7.1",
